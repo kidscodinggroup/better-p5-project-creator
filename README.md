@@ -1,4 +1,4 @@
-# better-pt-project-creator README
+# better-p5-project-creator README
 
 Just inspired by https://github.com/ultamatum/P5-Project-Creator and add new features.
 You can specify the folader name for your p5.js sketch so it's move convenient for 
