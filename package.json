@@ -4,10 +4,11 @@
 	"publisher": "langxm",
 	"displayName": "better-p5-project creator",
 	"description": "better p5 js project creator",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
+	"repository": "https://github.com/kidscodinggroup/better-p5-project-creator",
 	"categories": [
 		"Other"
 	],

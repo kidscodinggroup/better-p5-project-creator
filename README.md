@@ -1,5 +1,9 @@
 # better-p5-project-creator README
-
+已有的 p5.js 项目创建器功能太简单，不能指定创建的 sketch.js 的文件夹和网页的描述。
+每次都要新建文件夹把 sketch.js 和 index.html 拖进去很麻烦，所以就写个了插件，可以
+指定文件夹的名称，sketch.js 和 index.html 自动添加到文件夹，并且，可以输入网页的
+标题，这样，不同的项目就更容易区分了。一般文件夹名称比较简单，描述比较长，所以与
+https://github.com/ultamatum/P5-Project-Creator 不同，我分为了两个项目。
 Just inspired by https://github.com/ultamatum/P5-Project-Creator and add new features.
 You can specify the folader name for your p5.js sketch so it's move convenient for 
 creating prototying and testing different sketches.
