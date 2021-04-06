@@ -4,7 +4,7 @@ Just inspired by https://github.com/ultamatum/P5-Project-Creator and add new fea
 You can specify the folader name for your p5.js sketch so it's move convenient for 
 creating prototying and testing different sketches.
 Also you can specify the header tag of html, making it better for publish.
-![p5creator.fig](p5creator.gif)
+![p5creator.fig](https://github.com/kidscodinggroup/better-p5-project-creator/raw/master/p5creator.gif)
 ## Features
 * create p5.js project in specified folder
 * add header for html
